@@ -1,5 +1,12 @@
-# 💫 About Me:
-Learning FullStack Web Dev<br>
+<h1 align="center">Hi 👋, I'm Sachin Singh Rajpoot</h1>
+<h3 align="center">A passionate frontend developer from India</h3>
+
+- 🌱 I’m currently learning **Full Stack Web Development**
+
+- 👨‍💻 All of my projects are available at [https://github.com/singhsach-in](https://github.com/singhsach-in)
+
+- 📫 How to reach me **singhsachin1339@gmail.com**
+
 
 
 ## 🌐 Socials:
